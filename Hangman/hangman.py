@@ -81,8 +81,7 @@ def hangman(secret_word):
 
     * In each round user will guess one character 
 
-    * After each character give feedback to the user
-      * right or wrong
+    * After each character give feedback to the user right or wrong
 
     * Display partial word guessed by the user and use underscore in place of not guess word    
     '''
